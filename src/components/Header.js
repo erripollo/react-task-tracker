@@ -17,7 +17,7 @@ const Header = ({ title }) => {
 
 //assegno i valori alle props
 Header.defaultProps = {
-    title: 'Task Traker',
+    title: 'Task Tracker',
 }
 
 //defnisco le caratteristiche delle props... ricorda di importare PropTypes
